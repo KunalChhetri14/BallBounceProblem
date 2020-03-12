@@ -1,5 +1,10 @@
 # BallBounceProblem
 
+ git clone https://github.com/KunalChhetri14/BallBounceProblem.git
+ 
+ npm install - to install necessary packages.
+ 
+ 
 Two api's
 
 http://localhost:3000/calculateCoordinate    
