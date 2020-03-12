@@ -1,0 +1,24 @@
+{
+  "name": "ballbounceproblem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunalChhetri14/BallBounceProblem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunalChhetri14/BallBounceProblem/issues"
+  },
+  "homepage": "https://github.com/KunalChhetri14/BallBounceProblem#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
